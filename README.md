@@ -26,6 +26,14 @@ Build and launch your own cryptocurrency exchange with complete source code, sup
 
 <br>
 
+## CryptoTech at a Glance
+
+| 300+ | 1,000+ | 250K/s | Full Source |
+|:---:|:---:|:---:|:---:|
+| **Customers** | **Supported Coins** | **Orders / Second** | **Source-Code Access** |
+
+<br>
+
 **Matching Engine · Wallets · Admin Panel · KYC/AML · Liquidity · P2P · REST API · WebSocket API · Mobile Apps**
 
 <br>
