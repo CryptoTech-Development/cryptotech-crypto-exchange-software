@@ -1,5 +1,7 @@
 # CryptoTech — Crypto Exchange Software with Full Source Code
 
+[![Crypto Exchange Source Code]([image-url-here](https://cryptotech.exchange/wp-content/uploads/2026/10/CryptoTech-Exchange-Command-Center.png))](https://cryptotech.exchange)
+
 **Full Source Code. Self-Hosted. No Vendor Lock-In.**
 
 CryptoTech is production-ready cryptocurrency exchange software for businesses that want to launch, customize, and operate their own crypto trading platform.
