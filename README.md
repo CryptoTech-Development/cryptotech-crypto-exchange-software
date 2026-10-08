@@ -6,7 +6,9 @@
 
 **Full Source Code · Self-Hosted · No Vendor Lock-In**
 
-Launch, customize, deploy, and operate your own crypto exchange with full control over the technology stack.
+Trusted by 300+ customers worldwide.
+
+Build and launch your own cryptocurrency exchange with complete source code, support for 1,000+ digital assets, and a high-performance matching engine capable of processing up to 250,000 orders per second.
 
 <br>
 
