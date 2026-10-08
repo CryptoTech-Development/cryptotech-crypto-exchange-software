@@ -1,7 +1,7 @@
 # CryptoTech — Crypto Exchange Software with Full Source Code
 
 <p align="center">
-  <img src="assets/images/CryptoTech-Exchange-Command-Center.png" alt="Crypto Exchange Source Code" width="600">
+  <img src="assets/images/CryptoTech-Exchange-Command-Center.png" alt="Crypto Exchange Source Code">
 </p>
 
 **Full Source Code. Self-Hosted. No Vendor Lock-In.**
